@@ -52,7 +52,7 @@ body:after{
   width: 90vw;
 }
 #ctn-check{
-  width: 40vw;
+  width: 50vw;
   height: 15vh;
   display: flex;
   justify-content: center;
@@ -76,6 +76,15 @@ body:after{
   font-weight: 700;
   font-size: 1.4vw;
   word-spacing: 0.2;
-  width: 25vw;
+  width: 45vw;
   text-align: left;
+}
+ul {
+  display: flex;
+  gap: 3vw;
+  list-style-type: none;
+}
+ul li {
+  width: 5vw;
+  text-align: center;
 }
